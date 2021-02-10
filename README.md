@@ -149,7 +149,7 @@ We created our blockchain, initialized it, mined and transacted.
 
 So I attempted to use python to check my node balance and send ethereum to my node2. The issue here is i did nto have time to hide my private key:
 
-
+<img src = Screenshots/Using_python_to_transact.PNG>
 
 
 
